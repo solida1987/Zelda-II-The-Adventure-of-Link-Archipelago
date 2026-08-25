@@ -1,0 +1,10 @@
+{
+  "game": "Zelda II: The Adventure of Link",
+  "world_version": "0.1.5",
+  "minimum_ap_version": "0.6.0",
+  "authors": [
+    "solida1987"
+  ],
+  "compatible_version": 7,
+  "version": 7
+}
