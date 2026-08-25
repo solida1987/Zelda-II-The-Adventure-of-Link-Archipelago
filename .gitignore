@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.nes
+*.apz2
+dist/
+zelda2.apworld
